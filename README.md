@@ -14,3 +14,22 @@ Python: The programming language used for the entire workflow.
 Scikit-learn: For implementing Logistic Regression and model evaluation metrics.
 Pandas & NumPy: For data manipulation, cleaning, and preprocessing.
 Matplotlib & Seaborn: To create visualizations for understanding data distribution and model performance.
+
+
+# How to Use
+Clone the Repository:
+bash
+Copy code
+git clone [https://github.com/yourusername/credit-card-fraud-detection.git](https://github.com/VishwasPremchandani88/Credit-Card-Fraud-Detection.git)
+Install Dependencies:
+bash
+Copy code
+pip install -r requirements.txt
+Run the Jupyter Notebook to explore the entire process, from data preprocessing to model evaluation.
+# Results
+Training Accuracy: 92%
+Test Accuracy: 89%
+Confusion Matrix: Provides insights into the number of correct and incorrect classifications for both classes.
+ROC Curve: Illustrates the model's capability to differentiate between fraudulent and legitimate transactions.
+# Contributing
+Contributions are encouraged! If you have suggestions or improvements, please open an issue or submit a pull request.
